@@ -5,11 +5,10 @@
 
 - 🔭 I’m a Student on **enet'com**
 
-- 🌱 I’m currently learning **pytorsh,Angular**
+- 🌱 I’m currently learning **pytorch,Angular**
 
 - 💬 Ask me about **Algorithm,machine learning and deep learning**
 
-- 📫 How to reach me **medmab2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
