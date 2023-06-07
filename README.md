@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medmabcf&label=Profile%20views&color=0e75b6&style=flat" alt="medmabcf" /> </p>
 
 - 🔭 I’m a Student on **enet'com**
-
-- 🌱 I’m currently learning **pytorch,Angular**
-
+- 
 - 💬 Ask me about **Algorithm,machine learning and deep learning**
 
 <h3 align="left">Connect with me:</h3>
