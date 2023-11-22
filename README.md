@@ -11,8 +11,9 @@
 <a href="https://linkedin.com/in/mohamed-amine-b4366b225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-amine-b4366b225" height="30" width="40" /></a>
   </a>
 <a href="https://huggingface.co/medmabfc" target="_blank">
-  <img align="center" src="http://francky.me/images/quora001.png" alt="medmabfc" height="30" width="40" />
+  <img align="center" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="medmabfc" height="30" width="40" />
 </a>
+
 <a href="https://codeforces.com/profile/medmab" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="medmab" height="30" width="40" />
 </a>
