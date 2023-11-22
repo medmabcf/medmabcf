@@ -11,11 +11,12 @@
 <a href="https://linkedin.com/in/mohamed-amine-b4366b225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-amine-b4366b225" height="30" width="40" /></a>
   </a>
   <a href="https://huggingface.co/medmabfc" target="_blank" rel="noreferrer">
-    <img align="center" src="https://example.com/path/to/huggingface-icon.svg" alt="Hugging Face" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/medmab" target="_blank" rel="noreferrer">
-    <img align="center" src="https://example.com/path/to/codeforces-icon.svg" alt="Codeforces" height="30" width="40" />
-  </a>https://huggingface.co/medmabfcz
+  <img align="center" src="https://example.com/path/to/huggingface-icon.svg" alt="Hugging Face" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/medmab" target="_blank" rel="noreferrer">
+  <img align="center" src="https://example.com/path/to/codeforces-icon.svg" alt="Codeforces" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
