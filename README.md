@@ -2,7 +2,7 @@
 <h3 align="center">ML and Data engineering </h3>
 
 
-- 🔭 I love neural networks and algorithms
+- I love neural networks and algorithms
 
 
 <h3 align="left">Connect with me:</h3>
